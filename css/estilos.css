@@ -34,10 +34,7 @@
 
 .video-principal
 {
-    width: 100%;
-    max-width: 100%;
-    margin-top: -250px;
-    position: relative;
+    
 }
 
 /*------------------
@@ -71,12 +68,7 @@ estilos texto/imagen
     background-color: #005c9b;
 }
 
-.imagen-texto
-{
-    width: 100%;
-    height: 550px;
-    padding: 10px
-}
+
 
 .titulo-txt-img
 {
@@ -154,9 +146,7 @@ fin estilos texto/imagen
 
 #seccion-testimonios h1
 {
-    color: #005c9b;
-    text-transform: uppercase;
-    margin: 50px;
+   
 }
 
 .imagen-testimonios
