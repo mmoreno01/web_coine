@@ -1007,20 +1007,10 @@ fin responsive hoja de alianzas
 ----------------------------------*/
 
 @media (max-width:1200px){
-    .flotante {
-    display:none;
-}
+
 }
 
-@-webkit-keyframes anim1{
-    0%{
-       left:-450px;
-    }
-  
-    100%{
-        left: 50px;
-    }
-}
+
 
 /*--------------------------------
    fin efectos lestras banner
@@ -1029,50 +1019,10 @@ fin responsive hoja de alianzas
 /*---------------------------------
     seccion de corre
 -----------------------------------*/
-.titulo_correo
-{
-    color: #005c9b;
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
 
-.contenido_correcto
-{
-    color: #005c9b;
-    font-size: 20px;
-}
-
-.btn_1
-{
-    background-color: transparent;
-    border: 1px solid #005c9b;
-    margin-bottom: 50px;
-    padding: 10px;
-    color: #747477;
-}
 /*---------------------------------
     seccion de corre
 -----------------------------------*/
 
-.slider-for
-{
-    background-color: red;
-}
 
-.slider-nav
-{
-    background-color: yellow;
-}
 
-#carrusel-panorama .owl-nav
-{
-    text-align: center;
-    font-size: 50px;
-    color: #005c9b;
-    padding: 0px 10px;
-}
-
-#carrusel-panoramas button
-{
-    padding: 0px 10px;
-}
