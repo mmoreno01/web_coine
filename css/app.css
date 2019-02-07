@@ -61,29 +61,6 @@
   margin-top: 50px;
   margin-bottom: 50px; }
 
-.foter {
-  background-color: #005c9b; }
-
-#foter-redes {
-  height: 100%; }
-  #foter-redes ul {
-    list-style: none;
-    margin: 5px;
-    margin-top: 0px;
-    float: right; }
-  #foter-redes a {
-    list-style: none;
-    margin: 5px;
-    margin-top: 0px; }
-  #foter-redes img {
-    margin-left: 1px;
-    padding: 20px 0px 10px; }
-  #foter-redes li {
-    margin-left: -40px;
-    margin-top: 0px;
-    color: white;
-    font-size: 12px; }
-
 .flotante {
   position: relative;
   color: white;
@@ -232,16 +209,25 @@
         Fin Responsive
 -----------------------------*/
 #foter-redes {
+  height: 100%;
   background-color: #005c9b; }
   #foter-redes ul {
     list-style: none;
-    margin-top: 20px; }
-  #foter-redes li a {
+    margin: 5px;
+    margin-top: 0px;
+    text-align: center; }
+  #foter-redes a {
     list-style: none;
-    margin-top: 10px;
-    font-size: 14px;
+    margin: 5px;
+    margin-top: 0px; }
+  #foter-redes img {
+    margin-left: 1px;
+    padding: 20px 0px 10px; }
+  #foter-redes li {
+    margin-left: 0px;
+    margin-top: 0px;
     color: white;
-    display: none; }
+    font-size: 12px; }
 
 #conoc .imagen-principal {
   width: 100%; }
